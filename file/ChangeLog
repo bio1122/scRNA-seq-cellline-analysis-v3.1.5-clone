@@ -1,0 +1,4 @@
+2022.10.31 update:
+	1. 增加scSTAR去除adapter命令行；
+	2. 替换root为pub目录；
+	3. 修改saturation_sp.py,增加63行，注释掉62行。
